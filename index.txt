@@ -1,9 +1,1 @@
-   git status
-   git add
-   git commit
-   git push
-   git checkout
-   git merge
-   git pull
-   git remote
-   
+git pull origin main
